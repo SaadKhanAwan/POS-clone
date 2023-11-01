@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12461750911",
+    "project_id": "my-clone-app-924cb",
+    "storage_bucket": "my-clone-app-924cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12461750911:android:99333a3ebf89da33f35d4a",
+        "android_client_info": {
+          "package_name": "com.clone_app.saad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAl-E2TtMw-zeQHUb6QKLZuB9rgwApA1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
